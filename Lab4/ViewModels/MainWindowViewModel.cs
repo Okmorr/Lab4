@@ -8,7 +8,7 @@ namespace Lab4.ViewModels
 		string first;
 		string second;
 		string Operator = "";
-		RomanNumberExtend num = new RomanNumberExtend("XIV");// V+I
+		RomanNumberExtend num = new RomanNumberExtend("XIV");
 
 		public MainWindowViewModel()
 		{
